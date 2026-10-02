@@ -17,5 +17,14 @@ Each data structure supports:
 - Display functionality
 - Size tracking
 
-## Project Structure
 
+## Learning Outcomes
+
+Through this project, I practiced:
+
+- Implementing Binary Search Trees in C++
+- Insertion and deletion operations
+- Searching elements efficiently
+- Tree traversal techniques
+- Understanding hierarchical data structures
+- Applying data structure concepts in a menu-driven program.
