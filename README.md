@@ -28,3 +28,5 @@ Through this project, I practiced:
 - Tree traversal techniques
 - Understanding hierarchical data structures
 - Applying data structure concepts in a menu-driven program.
+
+- there is no bad in having smaller chnages in your resume lol and you have impress the interveiwer not to make the understand everything.
