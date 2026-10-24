@@ -30,3 +30,4 @@ Through this project, I practiced:
 - Applying data structure concepts in a menu-driven program.
 
 - there is no bad in having smaller chnages in your resume lol and you have impress the interveiwer not to make the understand everything.
+- i want to weight gain since tomorrow and i will make sure i eat everyting and i will not give up and for the whole winter i will keep taking diet and calories in take for almost 2600 per day and stay consistent and increase the total weight gain of my along with that i will do light expercise so it not only help me to get fat but all the weight get converte into the muscles raw muscles hehehe.
